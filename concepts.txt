@@ -1,0 +1,26 @@
+Apache Spark es un framework de trabajo para el desarrollo de grandes datos o big data y se preocupa de la velocidad y continuidad del procesamiento de datos, en contraparte de Hadoop que se preocupa por un almacenamiento grande de datos.
+
+Podemos utilizar multiples lenguajes
+
+Java
+Scala (Spark corre nativamente aquí)
+Python
+R
+¿Que nos es Apache Spark? No es una base de datos
+
+olap_OLTP
+OLAP: Es un sistema de recuperación de datos y análisis de datos en linea.
+
+OLTP: Es un sistema transaccional en línea y gestiona la modificación de la base de datos.
+
+Spark debe estar conectado a un Data warehouse para poder aprovechar toda su funcionalidad.
+
+data_source_data_warehousing
+Historia de Apache Spark
+
+<h3>Spark VS Hadoop</h3>
+Spark se enfoca en procesamiento de datos desde la memoria ram.
+
+Posee naturalmente un modulo para ML, streaming y grafos.
+
+No depende de un sistema de archivos.
